@@ -1,0 +1,10 @@
+# ignore specific folder.
+/.settings/
+/target/
+
+# ignore specific file.
+
+# ignore any file.
+*.class
+*.log
+*.bak
